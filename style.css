@@ -536,7 +536,7 @@ font-size:1.6rem;
     height:600px;
     display:flex;
     border:1px solid black;
-    background-image: url("/pics/unslash.jpg");
+    background-image: url("./pics/unslash.jpg");
     background-position: center;
     background-size: cover;
     border-radius: 13px;
